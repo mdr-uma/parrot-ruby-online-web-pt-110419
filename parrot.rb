@@ -3,5 +3,5 @@
 def parrot(parrot = "Pretty bird!")
   puts "Squawk!"
     "Squawk!"
-    "parrot"
+    "Pretty bird!"
 end
