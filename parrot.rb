@@ -5,8 +5,9 @@ def parrot
 
 end
 
-phrase = Squawk!
 def parrot
+  phrase = Squawk!
+
 
 
 end
