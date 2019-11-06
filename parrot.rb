@@ -7,5 +7,5 @@
 
 def parrot
   puts "Pretty bird!"
+  parrot
 end
-parrot
